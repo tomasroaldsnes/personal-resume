@@ -1,12 +1,12 @@
 ---
 date: '2018-05-14'
-title: 'Engineer'
-company: 'Upstatement'
-location: 'Boston, MA'
-range: 'May 2018 - Present'
-url: 'https://www.upstatement.com/'
+title: 'Business Designer'
+company: 'EVRY'
+location: 'Oslo, NOR'
+range: 'June 2018 - Present'
+url: 'https://www.evry.com/'
 ---
 
-- Write modern, performant, maintainable code for a diverse array of client and internal projects
-- Work with a variety of different languages, platforms, frameworks, and content management systems such as JavaScript, TypeScript, Gatsby, React, Craft, Wordpress, Prismic, and Netlify
-- Communicate with multi-disciplinary teams of engineers, designers, producers, and clients on a daily basis
+- Subject-matter expert and concept lead for Blockchain Technology
+- Focus on creating services for our customers, with a focus on privacy, user-centric design and security. Building agnostic industry platforms for efficient collaboration between participating actors.
+- Communicate with multi-disciplinary teams of engineers, designers, managers, and sales on a daily basis

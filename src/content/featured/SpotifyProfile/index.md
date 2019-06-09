@@ -1,15 +1,15 @@
 ---
 date: '3'
-title: 'Spotify Profile'
-cover: './demo.png'
-github: 'https://github.com/bchiang7/spotify-profile'
-external: 'https://spotify-profile.herokuapp.com/'
+title: 'Founded Amiroh'
+cover: './demo.jpg'
+github: ''
+external: 'https://www.indiegogo.com/projects/amiroh-smart-mirror#/'
 tech:
-  - React
-  - Node.js
-  - Express
-  - Styled Components
+  - Smart Mirror
+  - Android Native
+  - Two-way Mirror
+  - Smart Light system
 show: 'true'
 ---
 
-A web app for visualizing personalized Spotify data. View your top artists, top tracks, recently played tracks, and detailed audio information about each track. Create and save new playlists of recommended tracks based on your existing playlists and more.
+Amiroh Smart Mirror is the new revolution in makeup mirrors. It's a mirror with smart lights, touchscreen, videos and music. The mirror can simulate warm-to-cold light, and everything in between. Me and some friends founded Amiroh right after uni and got 1 million NOK in funding from The Norwegion Reasearch Council. It was the most stressful year of my life, but what an experience.

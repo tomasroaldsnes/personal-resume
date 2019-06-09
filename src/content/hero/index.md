@@ -1,8 +1,8 @@
 ---
 title: 'Hi, my name is'
-name: 'Brittany Chiang'
-subtitle: 'I build things for the web.'
+name: 'Tomas Roaldsnes'
+subtitle: 'I like to solve problems.'
 contactText: 'Get In Touch'
 ---
 
-I'm a software engineer based in Boston, MA specializing in building (and occasionally designing) exceptional, high-quality websites and applications.
+I'm a business designer based in Oslo specializing in creating exceptional products and services, focusing on finding the balance between user desirability, business viability and technical feasability

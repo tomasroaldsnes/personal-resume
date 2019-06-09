@@ -1,12 +1,12 @@
 ---
 date: '2018-04-01'
-title: 'Studio Developer'
-company: 'Scout'
-location: 'Northeastern University'
-range: 'Jan - April 2018'
-url: 'https://web.northeastern.edu/scout/'
+title: 'CEO & co-founder'
+company: 'Amiroh'
+location: 'Bergen'
+range: 'May 2017 - June 2018'
+url: 'https://amiroh.com'
 ---
 
-- Worked with a team of three designers to build a marketing website and e-commerce platform for [blistabloc](https://blistabloc.com), an ambitious startup originating from Northeastern
-- Helped solidify a brand direction for blistabloc that spans both packaging and web
-- Interfaced with clients on a weekly basis, providing technological expertise
+- In charge of business strategy, product management, growth marketing and backend/app development
+- Helped solidify a brand direction and creeating a community of 15k followers on Instagram
+- Every single one of us did the work of 3 people. I'm very proud of my team, who I miss dearly <3

@@ -74,22 +74,16 @@ const Layout = ({ children }) => {
       render={({ site }) => (
         <div id="root">
           <Head metadata={site.siteMetadata} />
-
           <GlobalStyle />
-
           <SkipToContent href="#content">Skip to Content</SkipToContent>
-
-          {isLoading ? (
-            <Loader finishLoading={() => setIsLoading(false)} />
-          ) : (
-            <div className="container">
-              <Nav />
-              <Social />
-              <Email />
-              {children}
-              <Footer githubInfo={githubInfo} />
-            </div>
-          )}
+          <div className="container">
+            <Nav />
+            <Social />
+            <Email />
+            {children}
+            <Footer githubInfo={githubInfo} />
+          </div>
+          )
         </div>
       )}
     />

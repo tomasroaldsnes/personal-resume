@@ -1,12 +1,12 @@
 ---
 date: '2016-12-21'
-title: 'Software Engineer Co-op'
-company: 'Starry'
-location: 'Boston, MA'
-range: 'July - Dec 2016'
-url: 'https://www.apple.com/music/'
+title: 'TA Entrepreneurship'
+company: 'HVL'
+location: 'Bergen'
+range: 'Sep 2016- Sep 2017'
+url: 'https://www.hvl.no'
 ---
 
-- Engineered and maintained major features of Starry's customer-facing web app using ES6, Handlebars, Backbone, Marionette and CSS
-- Proposed and implemented scalable solutions to issues identified with cloud services and applications responsible for communicating with Starry Station
-- Interfaced with user experience designers and other developers to ensure thoughtful and coherent user experiences across Starry’s iOS and Android mobile apps
+- Teaching assistant to Entrepreneurship 101 at graduate level
+- Economics, business models, funding etc.
+- Graded assignements and held after-school classes

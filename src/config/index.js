@@ -1,38 +1,37 @@
 module.exports = {
-  siteTitle: 'Brittany Chiang | Software Engineer',
-  siteDescription:
-    'Brittany Chiang is a software engineer based in Boston, MA who specializes in developing (and occasionally designing) exceptional, high-quality websites and applications.',
+  siteTitle: 'Tomas Roaldsnes | Business Designer',
+  siteDescription: 'Tomas Roaldsnes is a business designer based in Oslo, Norway',
   siteKeywords:
-    'Brittany Chiang, Brittany, Chiang, bchiang7, software engineer, front-end engineer, web developer, javascript, northeastern',
+    'Tomas Roaldsnes, business designer, business developer, founder of Amiroh, entrepreneur, innovation, design, tech, blockchain',
   siteUrl: 'https://brittanychiang.com',
   siteLanguage: 'en_US',
 
   googleVerification: 'DCl7VAf9tcz6eD9gb67NfkNnJ1PKRNcg8qQiwpbx9Lk',
 
-  name: 'Brittany Chiang',
-  location: 'Boston, MA',
-  email: 'brittany.chiang@gmail.com',
-  github: 'https://github.com/bchiang7/',
+  name: 'Tomas Roaldsnes',
+  location: 'Oslo, Norway',
+  email: 'tomroa@protonmail.com',
+  github: 'https://github.com/tomasroaldsnes/',
   socialMedia: [
     {
       name: 'Github',
-      url: 'https://github.com/bchiang7/',
+      url: 'https://github.com/tomasroaldsnes/',
     },
     {
       name: 'Linkedin',
-      url: 'https://www.linkedin.com/in/bchiang7/',
+      url: 'https://www.linkedin.com/in/tomas-roaldsnes-4b754bb3/',
     },
     {
-      name: 'Codepen',
-      url: 'https://codepen.io/bchiang7/',
+      name: 'Medium',
+      url: 'https://medium.com/@tomasroaldsnes',
     },
     {
       name: 'Instagram',
-      url: 'https://www.instagram.com/bchiang7/',
+      url: 'https://www.instagram.com/tommyroadsneeze',
     },
     {
       name: 'Twitter',
-      url: 'https://twitter.com/bchiang7',
+      url: 'https://twitter.com/tomasutenh',
     },
   ],
 
@@ -55,7 +54,7 @@ module.exports = {
     },
   ],
 
-  twitterHandle: '@bchiang7',
+  twitterHandle: 'tomasutenh',
   googleAnalyticsID: 'UA-45666519-2',
 
   navHeight: 100,

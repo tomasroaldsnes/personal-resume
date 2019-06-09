@@ -1,16 +1,16 @@
 ---
 date: '1'
-title: 'Halcyon Theme'
-cover: './halcyon.png'
-github: 'https://github.com/bchiang7/halcyon-site'
-external: 'https://halcyon-theme.netlify.com/'
+title: 'Business Plan Competitions'
+cover: './demo.jpg'
+github: ''
+external: ''
 tech:
-  - VS Code
-  - Sublime Text
-  - Atom
-  - iTerm2
-  - Hyper
+  - Selected for funding, Norwegian Research Council
+  - 1th Place, Bergen Brainstorm
+  - 1th Place, Venture Cup Bergen (Top 5 National)
+  - 1th Place, SettSjøbein Midt
+  - Winner of 4/5 competition (graduate lavel)
 show: 'true'
 ---
 
-A minimal, dark blue theme for VS Code, Sublime Text, Atom, iTerm, and more. Available on [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=brittanychiang.halcyon-vscode), [Package Control](https://packagecontrol.io/packages/Halcyon%20Theme), [Atom Package Manager](https://atom.io/themes/halcyon-syntax), and [npm](https://www.npmjs.com/package/hyper-halcyon-theme).
+I loved participating in business case competitions and Hackathons when I was in Uni. Still do. Some people jump out planes to get the adrenaline rush, I settled for a investor panel.

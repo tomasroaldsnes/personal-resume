@@ -1,12 +1,12 @@
 ---
 date: '2015-12-21'
-title: 'Creative Technologist Co-op'
-company: 'MullenLowe'
-location: 'Boston, MA'
-range: 'July - Dec 2015'
-url: 'https://www.upstatement.com/'
+title: 'Intern'
+company: 'Secure-NOK'
+location: 'BHouston, TX'
+range: 'Feb - May 2016'
+url: 'https://www.securenok.com/'
 ---
 
-- Developed and maintained code for in-house and client websites primarily using HTML, CSS, Sass, JavaScript, and jQuery
-- Manually tested sites in various browsers and mobile devices to ensure cross-browser compatibility and responsiveness
-- Clients included JetBlue, Lovesac, U.S. Cellular, U.S. Department of Defense, and more
+- Shadowed the founder and former CTO, Dr. Siv Hilde Houmb for 3 months
+- Built and developed the company's website (still in use)
+- In charge of digital marketing, whitepapers and graphical material
