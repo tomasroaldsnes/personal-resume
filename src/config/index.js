@@ -6,7 +6,7 @@ module.exports = {
   siteUrl: 'https://tomasroaldsnes.com',
   siteLanguage: 'en_US',
 
-  googleVerification: 'DCl7VAf9tcz6eD9gb67NfkNnJ1PKRNcg8qQiwpbx9Lk',
+  googleVerification: 'AZmCuPIUgrEwskbYuhHiA8BYzJ2fDysk',
 
   name: 'Tomas Roaldsnes',
   location: 'Oslo, Norway',
