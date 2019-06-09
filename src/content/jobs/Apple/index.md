@@ -9,4 +9,4 @@ url: 'https://medium.com/@tomroa'
 
 - I've written articles and gotten them published in multiple publications
 - The Startup, 3min.io, evry.com, Kryptografen
-- Feel free to check out my Medium @tomroa
+- Feel free to check out my Medium account @tomroa
