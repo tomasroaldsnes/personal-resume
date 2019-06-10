@@ -8,12 +8,12 @@ skills:
   - Business plan writing
   - Digital Identity & Authentication
   - Prototyping & wireframes
-  - Business models
+  - Business model innovation
   - Lean, Osterwalder, Growth Strategy etc.
   - C#, Xamarin Forms, Reactjs, React Native, Mongodb, Nodejs
 ---
 
-Hello! I'm Tomas, a business designer and subject-matter expert for Blockchain Technologies at EVRY. I spend most of my time building lovable products, reading and writing about technology and (occasionally) writing some code. I have a soft-spot for great design, flirtatious business models and humble entrepreneurs.
+Hello! I'm a business designer and subject-matter expert for Blockchain Technologies at EVRY FS. I spend most of my time building lovable products, reading and writing about technology and (occasionally) writing some code. I have a soft-spot for great design, flirtatious business models and humble entrepreneurs.
 
 Shortly after getting my Msc. in Innovation and Entrepreneurship (Bsc. in Robotics) from [HVL](https://www.hvl.no/en/), I founded the startup [Amiroh](https://www.indiegogo.com/projects/amiroh-smart-mirror#/). We didn't quite make it (don't do hardware, kids), but I got an amazing opportunity at EVRY shortly after.
 
