@@ -239,7 +239,7 @@ class Nav extends Component {
               <CSSTransition classNames="fade" timeout={3000}>
                 <Logo>
                   <LogoLink to="/" aria-label="Home">
-                    <IconLogo />
+                    {/* <IconLogo /> */}
                   </LogoLink>
                 </Logo>
               </CSSTransition>
