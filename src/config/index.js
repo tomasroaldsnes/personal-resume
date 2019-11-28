@@ -1,8 +1,8 @@
 module.exports = {
-  siteTitle: 'Tomas Roaldsnes | Business Designer',
-  siteDescription: 'Tomas Roaldsnes is a business designer based in Oslo, Norway',
+  siteTitle: 'Tomas Roaldsnes | Business/Service Designer',
+  siteDescription: 'Tomas Roaldsnes is a business/service designer based in Oslo, Norway',
   siteKeywords:
-    'Tomas Roaldsnes, business designer, business developer, founder of Amiroh, entrepreneur, innovation, design, tech, blockchain',
+    'Tomas Roaldsnes, business designer, service designer, founder of Amiroh, entrepreneur, innovation, design, tech, blockchain',
   siteUrl: 'https://tomasroaldsnes.com',
   siteLanguage: 'en_US',
 

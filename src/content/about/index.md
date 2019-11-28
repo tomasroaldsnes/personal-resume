@@ -4,16 +4,16 @@ avatar: './me.jpg'
 skills:
   - Blockchain & cryptocurrencies
   - Fintech & Open Banking
-  - Pitching and talks
-  - Business plan writing
+  - Conversational Banking
+  - Business Requirements & Specifications
   - Digital Identity & Authentication
-  - Prototyping & wireframes
+  - Prototyping & Wireframes (Figma/XD)
   - Business model innovation
-  - Lean, Osterwalder, Growth Strategy etc.
+  - Lean, Osterwalder, Service Design etc.
   - C#, Xamarin Forms, Reactjs, React Native, Mongodb, Nodejs
 ---
 
-Hello! I'm a business designer and subject-matter expert for Blockchain Technologies at EVRY FS. I spend most of my time building lovable products, reading and writing about technology and (occasionally) writing some code. I have a soft-spot for great design, flirtatious business models and humble entrepreneurs.
+Hello! I'm a business and technology oriented Service Designer (yikes) and subject-matter expert for Blockchain Technologies at EVRY FS. I spend most of my time building lovable products, reading and writing about technology and (occasionally) writing some code. I have a soft-spot for great design, flirtatious business models and humble entrepreneurs.
 
 Shortly after getting my Msc. in Innovation and Entrepreneurship (Bsc. in Robotics) from [HVL](https://www.hvl.no/en/), I founded the startup [Amiroh](https://www.indiegogo.com/projects/amiroh-smart-mirror#/). We didn't quite make it (don't do hardware, kids), but I got an amazing opportunity at EVRY shortly after.
 
