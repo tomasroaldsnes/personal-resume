@@ -126,7 +126,7 @@ const Projects = ({ data }) => {
 
   return (
     <ProjectsContainer>
-      <ProjectsTitle ref={revealTitle}>Other Projects</ProjectsTitle>
+      <ProjectsTitle ref={revealTitle}>Other Projects & Articles</ProjectsTitle>
       <ProjectsGrid>
         <TransitionGroup className="projects">
           {projectsToShow &&
